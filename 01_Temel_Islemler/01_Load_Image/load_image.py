@@ -1,6 +1,6 @@
 import cv2 as cv
 
-# If twitter.png is in the same directory as this script, just use the filename
+
 img = cv.imread("twitter.png")
 
 print(type(img))
